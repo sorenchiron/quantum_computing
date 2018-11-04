@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}概述}{3}{section.1}
+\contentsline {section}{\numberline {2}基于量子科学的体系结构原理}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}量子的基本物理概述}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}量子架构下信息的可表达性}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}量子信息计算的可执行性}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}量子计算架构运算的同时并行性}{7}{subsection.2.4}
+\contentsline {section}{\numberline {3}量子计算机的运算存储架构}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}量子架构特性概要}{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}量子逻辑门}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}基于量子门与叠加态特性的典型算法}{10}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}MUSIQC架构}{11}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}量子元胞自动机}{14}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}流水线量子计算机架构}{15}{subsection.3.6}
+\contentsline {section}{\numberline {4}结论}{19}{section.4}

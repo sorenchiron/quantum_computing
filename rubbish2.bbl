@@ -1,0 +1,78 @@
+\begin{thebibliography}{10}
+
+\bibitem{shortq}
+John~C Polkinghorne.
+\newblock Quantum theory: A very short introduction.
+\newblock 2013.
+
+\bibitem{introq}
+Noson~S. Yanofsky.
+\newblock An introduction to quantum computing.
+\newblock {\em Oxford University Press}, 61(2):100--121, 2006.
+
+\bibitem{qla}
+36th international symposium on microarchitecture.
+\newblock In {\em Microarchitecture, 2003. MICRO-36. Proceedings. 36th Annual
+  IEEE/ACM International Symposium on}, 2003.
+
+\bibitem{largeq}
+C.~Monroe, R.~Raussendorf, A.~Ruthven, K.~R. Brown, P.~Maunz, L.~M. Duan, and
+  J.~Kim.
+\newblock Large scale modular quantum computer architecture with atomic memory
+  and photonic interconnects.
+\newblock {\em Physical Review A}, 89(2):--, 2012.
+
+\bibitem{spdc}
+G~Kh Kitaeva and A~N Penin.
+\newblock Spontaneous parametric down-conversion.
+\newblock {\em Jetp Letters}, 82(6):350--355, 2005.
+
+\bibitem{qca}
+Craig~S Lent, P~D Tougaw, W~Porod, and Gary~H Bernstein.
+\newblock Quantum cellular automata.
+\newblock {\em Nanotechnology}, 4(1):49--57, 1993.
+
+\bibitem{pipeline}
+V.~Pudi and K.~Sridharan.
+\newblock A bit-serial pipelined architecture for high-performance dht
+  computation in quantum-dot cellular automata.
+\newblock {\em IEEE Transactions on Very Large Scale Integration (VLSI)
+  Systems}, 23(10):2352--2356, Oct 2015.
+
+\bibitem{adder}
+V.~Pudi and K.~Sridharan.
+\newblock Low complexity design of ripple carry and brentx2013;kung adders in
+  qca.
+\newblock {\em IEEE Transactions on Nanotechnology}, 11(1):105--119, Jan 2012.
+
+\bibitem{cache}
+Michael Badamo, Jeff Casarona, Minshu Zhao, and Donald Yeung.
+\newblock Identifying power-efficient multicore cache hierarchies via reuse
+  distance analysis.
+\newblock {\em Acm Transactions on Computer Systems}, 34(1):1--30, 2016.
+
+\bibitem{risccisc}
+Emily Blem, Jaikrishnan Menon, Thiruvengadam Vijayaraghavan, and Karthikeyan
+  Sankaralingam.
+\newblock Isa wars: Understanding the relevance of isa being risc or cisc to
+  performance, power, and energy on modern architectures.
+\newblock {\em Acm Transactions on Computer Systems}, 33(1):3, 2015.
+
+\bibitem{lock}
+Jean~Pierre Lozi, Florian David, Ga~Thomas, Julia Lawall, and Gilles Muller.
+\newblock Fast and portable locking for multicore architectures.
+\newblock {\em Acm Transactions on Computer Systems}, 33(4):13, 2016.
+
+\bibitem{schedule}
+Arthur Perais and Andr Seznec.
+\newblock Eole: Combining static and dynamic scheduling through value
+  prediction to reduce complexity and increase performance.
+\newblock {\em Acm Transactions on Computer Systems}, 34(2):4, 2016.
+
+\bibitem{microkernel20years}
+Gernot Heiser and Kevin Elphinstone.
+\newblock L4 microkernels: The lessons from 20 years of research and
+  deployment.
+\newblock {\em Acm Transactions on Computer Systems}, 34(1):1, 2016.
+
+\end{thebibliography}
